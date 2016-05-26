@@ -1,0 +1,15 @@
+
+/* 
+    Created on : 25/05/2016, 11:25:40 PM
+    Author     : Miguel Ángel López Cervantes
+*/
+
+
+body{
+    background-image  : url("../Imagenes/background.jpg");
+    background-repeat : no-repeat; 
+}
+
+h3#tituloLogin{
+    color : #ccccff;
+}
